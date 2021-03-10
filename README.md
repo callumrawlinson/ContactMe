@@ -1,5 +1,1 @@
-# ContactMe
-A place to contact me!
-https://callumrawlinson.github.io/contactme.html
-
-![alt text](http://url/to/img.png)
+[![Foo](https://github.com/callumrawlinson/ContactMe/blob/main/callumrawlinson.github.io.png)](https://callumrawlinson.github.io/contact)
